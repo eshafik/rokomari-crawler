@@ -18,7 +18,7 @@ idna==2.8
 incremental==17.5.0
 lxml==4.3.3
 mysql-connector-python==8.0.16
-numpy==1.16.3
+numpy==1.22.0
 oauthlib==3.0.1
 pandas==0.24.2
 parsel==1.5.1
